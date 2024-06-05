@@ -1,4 +1,4 @@
-import Creature from "./types";
+import Creature from "../types";
 
 interface CreaturesClientStructure {
   getCreatures(): Promise<Creature[]>;

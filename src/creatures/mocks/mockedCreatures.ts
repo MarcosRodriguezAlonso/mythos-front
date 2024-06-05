@@ -1,4 +1,4 @@
-import type Creature from "../../types";
+import type Creature from "../types";
 
 export const mockKtulu: Creature = {
   _id: "1",

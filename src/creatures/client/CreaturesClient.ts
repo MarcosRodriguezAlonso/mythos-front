@@ -1,5 +1,5 @@
-import CreaturesClientStructure from "./CreaturesClientStructure";
-import Creature from "./types";
+import CreaturesClientStructure from "./CreaturesClientStructure.js";
+import Creature from "../types";
 
 class CreatureClient implements CreaturesClientStructure {
   async getCreatures(): Promise<Creature[]> {

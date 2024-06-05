@@ -1,4 +1,4 @@
-interface Creatures {
+interface Creature {
   _id: string;
   name: string;
   lineage: string;
@@ -9,4 +9,4 @@ interface Creatures {
   alternativeText: string;
 }
 
-export default Creatures;
+export default Creature;
