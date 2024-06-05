@@ -14,6 +14,7 @@ dist-ssr
 *.js
 *.js.map
 coverage
+.env
 
 # Editor directories and files
 .vscode/*
